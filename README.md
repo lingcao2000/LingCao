@@ -6,4 +6,4 @@ The repositories on this account include some projects that I've worked on. Some
 
 Feel free to also check out the [Facebook Messenger Design Concept](https://medium.com/@lingcao2000/i-received-an-award-for-worst-replier-on-facebook-messenger-so-i-added-a-few-features-to-it-4ad64e34a689) case study that I wrote.
 
-Feel free to reach out to me at lc686@cornell.edu!
+I can be reached at lc686@cornell.edu!
