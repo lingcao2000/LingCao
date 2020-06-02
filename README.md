@@ -1,4 +1,4 @@
-#About
+# About
 
 My name is Ling Cao and I am a rising junior at Cornell University studying Computer Science and pursuing minors in Information Science and Business.
 
